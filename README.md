@@ -13,10 +13,12 @@ Some scripts are basic availability checkers, others include generation, automat
 
 <br>
 
+<img src="https://img.shields.io/github/stars/rs4t/username-checker?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/rs4t/username-checker?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/rs4t/username-checker?style=for-the-badge" />
 <img src="https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/platforms-multi--platform-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/vibe-working_endpoints-important?style=for-the-badge" />
 
 </div>
 
@@ -111,16 +113,34 @@ pip install -r requirements.txt
 Run whichever script you want:
 
 ```bash
-python minecraft.py
+python minecraft_checker.py
 ```
 
 ### Examples
 
 ```bash
-python reddit.py
-python roblox.py
-python steam.py
+python reddit_checker.py
+python roblox_checker_gui.py
+python steam_checker.py
 ```
+
+### GUI Scripts
+
+```bash
+python roblox_checker_gui.py
+```
+
+---
+
+# Future Plans
+
+- More platform support
+- Better GUI versions
+- Improved auto-claim systems
+- Proxy rotation support
+- Better rate-limit handling
+- Cleaner API integrations
+
 ---
 
 # Why This Repo Exists
