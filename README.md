@@ -184,6 +184,6 @@ Pull requests are welcome.
 
 mostly vibe coding,  
 fixing broken APIs,  
-and checking if usernames still hit.
+getting rare usernames
 
 </div>
