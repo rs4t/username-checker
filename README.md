@@ -111,23 +111,16 @@ pip install -r requirements.txt
 Run whichever script you want:
 
 ```bash
-python minecraft_checker.py
+python minecraft.py
 ```
 
 ### Examples
 
 ```bash
-python reddit_checker.py
-python roblox_checker_gui.py
-python steam_checker.py
+python reddit.py
+python roblox.py
+python steam.py
 ```
-
-### GUI scripts
-
-```bash
-python roblox_checker_gui.py
-```
-
 ---
 
 # Why This Repo Exists
