@@ -1,0 +1,6 @@
+aiohttp
+requests
+httpx
+colorama
+beautifulsoup4
+selenium
