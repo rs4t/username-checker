@@ -119,15 +119,9 @@ python minecraft_checker.py
 ### Examples
 
 ```bash
-python reddit_checker.py
-python roblox_checker_gui.py
-python steam_checker.py
-```
-
-### GUI Scripts
-
-```bash
-python roblox_checker_gui.py
+python reddit.py
+python roblox.py
+python steam.py
 ```
 
 ---
